@@ -1,3 +1,4 @@
 this is a text file
 I will be adding it with git
+ok
 
